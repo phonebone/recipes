@@ -1,0 +1,19 @@
+Ingredients:
+ - 2 slices of bread
+ - 4 slices of cheese
+ - a knob of butter
+ - ketchup
+
+Directions:
+  1. Put the tosti machine on.
+  2. Put butter on one side of each of the slices of bread and put them on
+  	 eachother so that the buttered sides are touching.
+  3. Put the cheese on top of the bread.
+  4. Open the tosti machine and lift the slice of bread with the cheese on it up,
+  	 seperating it from the bottom slice, then put it in the tosti machine,
+  	 buttered side down.
+  5. Next, put the second slice of buttered bread on top of the cheese, buttered
+  	 side up.
+  6. Close the tosti machine and take the tosti out when the bread is golden brown.
+  7. Put ketchup on the tosti and slice it in halve diagonally.
+  8. Enjoy!
